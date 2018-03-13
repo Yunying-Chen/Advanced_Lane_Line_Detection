@@ -22,4 +22,4 @@
 ![Image text](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/FillLane.jpg) 
 
 ## Performance
-![GIF](https://github.com/Yunying-Chen/Behavioral_Cloning/blob/master/image/Animation.gif)
+![GIF](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/Animation.gif)
