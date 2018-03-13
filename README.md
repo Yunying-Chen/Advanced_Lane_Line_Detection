@@ -15,7 +15,8 @@
 4. Apply a perspective transform to rectify binary image ("birds-eye view").                         
 ![Image text](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/straightLine.jpg)                 
 ![Image text](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/CurveLine.jpg)                 
-6. Detect lane pixels and fit to find the lane boundary with sliding windows.                                                             
+5. Detect lane pixels and fit to find the lane boundary with sliding windows.  
+![Image text](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/SlidingWindow.jpg)  
 6. Determine the curvature of the lane and vehicle position with respect to center.                                              
 7. Warp the detected lane boundaries back onto the original image.                           
 8. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.                       
