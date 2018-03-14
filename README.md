@@ -6,7 +6,7 @@
 -Numpy                    
 -Matplotlib
 
-## Step
+## Steps
 1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.    
 ![Image text](https://github.com/Yunying-Chen/Advanced_Lane_Line_Detection/blob/master/img/undistort.jpg)                    
 2. Apply a distortion correction to raw images.                                                         
